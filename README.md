@@ -1,1 +1,1 @@
-# angular-observer
+# angular-observable
