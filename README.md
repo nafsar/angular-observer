@@ -1,6 +1,6 @@
 # angular-observable
 - using RxJS library to communicate between components
-- Benfits of Observable:
+###### Benfits of Observable:
 - 1-works with multiple values over time
 - 2-cancellable
 - 3-supports map, filter, reduce and similar operators
